@@ -1,10 +1,23 @@
+<p align="center">
+  <img src="assets/banner.png" alt="AI Chatbot Suite Banner" width="100%">
+</p>
+
 # 🤖 AI Chatbot Suite: Integrated Product Ecosystem
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://nimish9010-real-time-genai-customer-service-bot-app-gelyzs.streamlit.app/)
+<p align="center">
+  <a href="https://nimish9010-real-time-genai-customer-service-bot-app-gelyzs.streamlit.app/">
+    <img src="https://static.streamlit.io/badges/streamlit_badge_svg.svg" alt="Streamlit App">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Gemini-Pro%20%2F%20Flash-orange?style=flat-square&logo=google&logoColor=white" alt="Google Gemini">
+  <img src="https://img.shields.io/badge/Vector%20Store-SQLite%20(Pure--Python)-green?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite Store">
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=flat-square" alt="License">
+</p>
 
 An enterprise-ready, high-performance RAG and cognitive analytics suite featuring **Conversational AI** and **Voice Intelligence** modules. Powered by a custom, high-density pure-Python SQLite vector database, natural language processing engines, and Google Gemini models.
 
 👉 **[Click Here to Open the Live Web Application!](https://nimish9010-real-time-genai-customer-service-bot-app-gelyzs.streamlit.app/)**
+
 
 ---
 
@@ -29,6 +42,16 @@ Interactive customer assistance for inbound sales and support calls.
 - **Call Dialer & Screen**: Dial simulated leads with dynamic sound wave visual animations.
 - **Real-Time Voice Integration**: Supports browser-native Speech-to-Text and Text-to-Speech synthesis for natural vocal dialogue.
 - **Lead Classification**: Scores leads (Hot, Warm, Cold) using context extraction algorithms.
+
+---
+
+## 🖼️ Application Showcase
+
+Here is a preview of the high-tech glassmorphic Command Center home dashboard:
+
+<p align="center">
+  <img src="assets/main_page.webp" alt="Command Center Dashboard Preview" width="90%">
+</p>
 
 ---
 
