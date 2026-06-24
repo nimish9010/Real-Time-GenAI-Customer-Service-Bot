@@ -1,6 +1,10 @@
 # 🤖 AI Chatbot Suite: Integrated Product Ecosystem
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg.svg)](https://nimish9010-real-time-genai-customer-service-bot-app-gelyzs.streamlit.app/)
+
 An enterprise-ready, high-performance RAG and cognitive analytics suite featuring **Conversational AI** and **Voice Intelligence** modules. Powered by a custom, high-density pure-Python SQLite vector database, natural language processing engines, and Google Gemini models.
+
+👉 **[Click Here to Open the Live Web Application!](https://nimish9010-real-time-genai-customer-service-bot-app-gelyzs.streamlit.app/)**
 
 ---
 
